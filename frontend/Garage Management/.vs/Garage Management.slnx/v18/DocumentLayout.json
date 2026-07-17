@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simms\\OneDrive\\Desktop\\Garage management\\frontend\\Garage Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF21AA58-7DF9-493A-9331-EF247EF53465}|Garage Management.pyproj|C:\\Users\\simms\\OneDrive\\Desktop\\Garage management\\frontend\\Garage Management\\Garage_Management.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AF21AA58-7DF9-493A-9331-EF247EF53465}|Garage Management.pyproj|solutionrelative:Garage_Management.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 178,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Garage_Management.py",
+              "DocumentMoniker": "C:\\Users\\simms\\OneDrive\\Desktop\\Garage management\\frontend\\Garage Management\\Garage_Management.py",
+              "RelativeDocumentMoniker": "Garage_Management.py",
+              "ToolTip": "C:\\Users\\simms\\OneDrive\\Desktop\\Garage management\\frontend\\Garage Management\\Garage_Management.py",
+              "RelativeToolTip": "Garage_Management.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-07-17T07:55:07.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
