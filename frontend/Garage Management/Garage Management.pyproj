@@ -22,6 +22,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Garage_Management.py" />
+    <Compile Include="home.py" />
+    <Compile Include="widgets\error_msg.py" />
+    <Compile Include="widgets\success_msg.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="widgets\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
