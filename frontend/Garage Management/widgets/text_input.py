@@ -22,9 +22,8 @@ class TextInput(QFrame):
         main_layout = QHBoxLayout(self)
 
         main_layout.setContentsMargins(8, 1, 8, 1)
-        main_layout.setSpacing(5)
+        main_layout.setSpacing(1)
 
-        # Icon
         icon = QLabel()
         icon.setObjectName("iconLabel")
         icon.setAlignment(Qt.AlignCenter)
@@ -45,11 +44,9 @@ class TextInput(QFrame):
             )
         )
 
-        # Input
         entry = QLineEdit()
         entry.setPlaceholderText(self.placeholder)
 
-        # Add widgets to layout
         main_layout.addWidget(icon)
         main_layout.addWidget(entry)
 

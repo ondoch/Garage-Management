@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\simms\\OneDrive\\Desktop\\Garage management\\frontend\\Garage Management\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF21AA58-7DF9-493A-9331-EF247EF53465}|Garage Management.pyproj|C:\\Users\\simms\\OneDrive\\Desktop\\Garage management\\frontend\\Garage Management\\widgets\\text_input.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AF21AA58-7DF9-493A-9331-EF247EF53465}|Garage Management.pyproj|solutionrelative:widgets\\text_input.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{AF21AA58-7DF9-493A-9331-EF247EF53465}|Garage Management.pyproj|C:\\Users\\simms\\OneDrive\\Desktop\\Garage management\\frontend\\Garage Management\\widgets\\step_indicator.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AF21AA58-7DF9-493A-9331-EF247EF53465}|Garage Management.pyproj|solutionrelative:widgets\\step_indicator.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF21AA58-7DF9-493A-9331-EF247EF53465}|Garage Management.pyproj|C:\\Users\\simms\\OneDrive\\Desktop\\Garage management\\frontend\\Garage Management\\home.py||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "home.py",
               "ToolTip": "C:\\Users\\simms\\OneDrive\\Desktop\\Garage management\\frontend\\Garage Management\\home.py",
               "RelativeToolTip": "home.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2026-07-19T14:30:00.457Z",
               "EditorCaption": ""
@@ -40,14 +40,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "text_input.py",
-              "DocumentMoniker": "C:\\Users\\simms\\OneDrive\\Desktop\\Garage management\\frontend\\Garage Management\\widgets\\text_input.py",
-              "RelativeDocumentMoniker": "widgets\\text_input.py",
-              "ToolTip": "C:\\Users\\simms\\OneDrive\\Desktop\\Garage management\\frontend\\Garage Management\\widgets\\text_input.py",
-              "RelativeToolTip": "widgets\\text_input.py",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAACkAAAAgAAAAAAAAAA==",
+              "Title": "step_indicator.py",
+              "DocumentMoniker": "C:\\Users\\simms\\OneDrive\\Desktop\\Garage management\\frontend\\Garage Management\\widgets\\step_indicator.py",
+              "RelativeDocumentMoniker": "widgets\\step_indicator.py",
+              "ToolTip": "C:\\Users\\simms\\OneDrive\\Desktop\\Garage management\\frontend\\Garage Management\\widgets\\step_indicator.py",
+              "RelativeToolTip": "widgets\\step_indicator.py",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-07-19T15:36:17.879Z",
+              "WhenOpened": "2026-07-20T06:46:15.127Z",
               "EditorCaption": ""
             }
           ]

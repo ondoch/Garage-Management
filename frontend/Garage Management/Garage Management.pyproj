@@ -23,18 +23,23 @@
   <ItemGroup>
     <Compile Include="Garage_Management.py" />
     <Compile Include="home.py" />
-    <Compile Include="msg_widgets\error_msg.py" />
-    <Compile Include="msg_widgets\success_msg.py" />
+    <Compile Include="widgets\msg_widgets\error_msg.py" />
+    <Compile Include="widgets\msg_widgets\success_msg.py" />
+    <Compile Include="widgets\password_input.py" />
+    <Compile Include="widgets\step_indicator.py" />
     <Compile Include="widgets\text_input.py" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="msg_widgets\" />
+    <Folder Include="widgets\msg_widgets\" />
     <Folder Include="resources\" />
     <Folder Include="resources\icons\" />
     <Folder Include="widgets\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="resources\icons\category.svg" />
+    <Content Include="resources\icons\eye-close.svg" />
+    <Content Include="resources\icons\eye-open.svg" />
+    <Content Include="resources\icons\pass-word.svg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
